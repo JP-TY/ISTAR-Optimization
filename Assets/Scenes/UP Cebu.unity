@@ -298,6 +298,48 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 0.0066690417, y: 0.0015970638, z: 0.022499997}
   m_Center: {x: -0.006665398, y: 0.010272885, z: 0.0012500009}
+--- !u!65 &1021922155
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1021922150}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 0.0005835362, y: 0.021071428, z: 0.022499997}
+  m_Center: {x: -0.009977177, y: 0.0005357174, z: 0.0012500001}
+--- !u!65 &1021922156
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1021922150}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 0.0065419883, y: 0.021071428, z: 0.00044294551}
+  m_Center: {x: -0.0066484427, y: 0.00053571886, z: -0.009778505}
 --- !u!1 &1119873830
 GameObject:
   m_ObjectHideFlags: 0
@@ -1435,9 +1477,21 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: -4163654913208221604, guid: 937a55316ed7e3a478b1d44b39a656a0, type: 3}
       insertIndex: -1
       addedObject: {fileID: 2035659923}
+    - targetCorrespondingSourceObject: {fileID: -4163654913208221604, guid: 937a55316ed7e3a478b1d44b39a656a0, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 2035659924}
+    - targetCorrespondingSourceObject: {fileID: -4163654913208221604, guid: 937a55316ed7e3a478b1d44b39a656a0, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 2035659925}
     - targetCorrespondingSourceObject: {fileID: 2198566820268538999, guid: 937a55316ed7e3a478b1d44b39a656a0, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1021922154}
+    - targetCorrespondingSourceObject: {fileID: 2198566820268538999, guid: 937a55316ed7e3a478b1d44b39a656a0, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1021922155}
+    - targetCorrespondingSourceObject: {fileID: 2198566820268538999, guid: 937a55316ed7e3a478b1d44b39a656a0, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1021922156}
     - targetCorrespondingSourceObject: {fileID: 3017083405024795146, guid: 937a55316ed7e3a478b1d44b39a656a0, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1581970101}
@@ -1550,6 +1604,48 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 0.0067139682, y: 0.0017289734, z: 0.022499997}
   m_Center: {x: -0.006642776, y: 0.010206934, z: 0.0012499993}
+--- !u!65 &2035659924
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2035659919}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 0.0011157362, y: 0.021071428, z: 0.022499997}
+  m_Center: {x: -0.009543424, y: 0.0005357193, z: 0.00125}
+--- !u!65 &2035659925
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2035659919}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 0.006565941, y: 0.019291282, z: 0.00038712693}
+  m_Center: {x: -0.0067169876, y: -0.00032041088, z: -0.009806426}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
